@@ -17,7 +17,7 @@ public class Ball {
 		//TODO Depend of image size
 		IMG_TAM_X = 32;
 		IMG_TAM_Y = 32;
-
+		System.out.println("Hola mundo");
 		
 		x = Billiards.Width/4-16;
 		y = Billiards.Height/2-16;
